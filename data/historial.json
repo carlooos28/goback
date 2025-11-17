@@ -1,0 +1,26 @@
+[
+  {
+    "idHistorial": 1,
+    "idVendedor": 1,
+    "estadoAnterior": false,
+    "estadoNuevo": true,
+    "fechaCambio": "2024-11-01T09:00:00Z",
+    "usuarioRRHH": "rrhh_a1"
+  },
+  {
+    "idHistorial": 2,
+    "idVendedor": 2,
+    "estadoAnterior": true,
+    "estadoNuevo": false,
+    "fechaCambio": "2024-12-01T15:45:00Z",
+    "usuarioRRHH": "rrhh_b2"
+  },
+  {
+    "idHistorial": 3,
+    "idVendedor": 3,
+    "estadoAnterior": false,
+    "estadoNuevo": true,
+    "fechaCambio": "2025-01-05T12:15:00Z",
+    "usuarioRRHH": "rrhh_c3"
+  }
+]

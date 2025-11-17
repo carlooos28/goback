@@ -1,0 +1,26 @@
+[
+  {
+    "idVendedor": 1,
+    "idPersona": 101,
+    "sueldo": 2500.50,
+    "estadoAutorizado": true,
+    "fechaAutorizacion": "2024-11-01T09:00:00Z",
+    "fechaRevocacion": "0001-01-01T00:00:00Z"
+  },
+  {
+    "idVendedor": 2,
+    "idPersona": 102,
+    "sueldo": 3100,
+    "estadoAutorizado": false,
+    "fechaAutorizacion": "2024-10-15T10:30:00Z",
+    "fechaRevocacion": "2024-12-01T15:45:00Z"
+  },
+  {
+    "idVendedor": 3,
+    "idPersona": 103,
+    "sueldo": 1800,
+    "estadoAutorizado": true,
+    "fechaAutorizacion": "2025-01-05T12:15:00Z",
+    "fechaRevocacion": "0001-01-01T00:00:00Z"
+  }
+]
