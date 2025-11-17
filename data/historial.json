@@ -22,5 +22,61 @@
     "estadoNuevo": true,
     "fechaCambio": "2025-01-05T12:15:00Z",
     "usuarioRRHH": "rrhh_c3"
+  },
+  {
+    "idHistorial": 4,
+    "idVendedor": 4,
+    "estadoAnterior": false,
+    "estadoNuevo": true,
+    "fechaCambio": "2024-09-20T08:45:00Z",
+    "usuarioRRHH": "rrhh_d4"
+  },
+  {
+    "idHistorial": 5,
+    "idVendedor": 5,
+    "estadoAnterior": true,
+    "estadoNuevo": false,
+    "fechaCambio": "2024-11-30T11:00:00Z",
+    "usuarioRRHH": "rrhh_e5"
+  },
+  {
+    "idHistorial": 6,
+    "idVendedor": 6,
+    "estadoAnterior": false,
+    "estadoNuevo": true,
+    "fechaCambio": "2024-12-05T16:05:00Z",
+    "usuarioRRHH": "rrhh_f6"
+  },
+  {
+    "idHistorial": 7,
+    "idVendedor": 7,
+    "estadoAnterior": true,
+    "estadoNuevo": false,
+    "fechaCambio": "2024-10-02T17:25:00Z",
+    "usuarioRRHH": "rrhh_g7"
+  },
+  {
+    "idHistorial": 8,
+    "idVendedor": 8,
+    "estadoAnterior": false,
+    "estadoNuevo": true,
+    "fechaCambio": "2025-02-01T10:10:00Z",
+    "usuarioRRHH": "rrhh_h8"
+  },
+  {
+    "idHistorial": 9,
+    "idVendedor": 9,
+    "estadoAnterior": true,
+    "estadoNuevo": false,
+    "fechaCambio": "2024-09-01T12:00:00Z",
+    "usuarioRRHH": "rrhh_i9"
+  },
+  {
+    "idHistorial": 10,
+    "idVendedor": 10,
+    "estadoAnterior": false,
+    "estadoNuevo": true,
+    "fechaCambio": "2025-03-10T08:00:00Z",
+    "usuarioRRHH": "rrhh_j10"
   }
 ]

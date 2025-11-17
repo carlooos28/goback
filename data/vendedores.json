@@ -2,7 +2,7 @@
   {
     "idVendedor": 1,
     "idPersona": 101,
-    "sueldo": 2500.50,
+    "sueldo": 2500.5,
     "estadoAutorizado": true,
     "fechaAutorizacion": "2024-11-01T09:00:00Z",
     "fechaRevocacion": "0001-01-01T00:00:00Z"
@@ -21,6 +21,62 @@
     "sueldo": 1800,
     "estadoAutorizado": true,
     "fechaAutorizacion": "2025-01-05T12:15:00Z",
+    "fechaRevocacion": "0001-01-01T00:00:00Z"
+  },
+  {
+    "idVendedor": 4,
+    "idPersona": 104,
+    "sueldo": 2200,
+    "estadoAutorizado": true,
+    "fechaAutorizacion": "2024-09-20T08:45:00Z",
+    "fechaRevocacion": "0001-01-01T00:00:00Z"
+  },
+  {
+    "idVendedor": 5,
+    "idPersona": 105,
+    "sueldo": 1950,
+    "estadoAutorizado": false,
+    "fechaAutorizacion": "2024-07-10T14:20:00Z",
+    "fechaRevocacion": "2024-11-30T11:00:00Z"
+  },
+  {
+    "idVendedor": 6,
+    "idPersona": 106,
+    "sueldo": 2750,
+    "estadoAutorizado": true,
+    "fechaAutorizacion": "2024-12-05T16:05:00Z",
+    "fechaRevocacion": "0001-01-01T00:00:00Z"
+  },
+  {
+    "idVendedor": 7,
+    "idPersona": 107,
+    "sueldo": 2400,
+    "estadoAutorizado": false,
+    "fechaAutorizacion": "2024-08-18T09:50:00Z",
+    "fechaRevocacion": "2024-10-02T17:25:00Z"
+  },
+  {
+    "idVendedor": 8,
+    "idPersona": 108,
+    "sueldo": 3300,
+    "estadoAutorizado": true,
+    "fechaAutorizacion": "2025-02-01T10:10:00Z",
+    "fechaRevocacion": "0001-01-01T00:00:00Z"
+  },
+  {
+    "idVendedor": 9,
+    "idPersona": 109,
+    "sueldo": 2100,
+    "estadoAutorizado": false,
+    "fechaAutorizacion": "2024-06-12T13:30:00Z",
+    "fechaRevocacion": "2024-09-01T12:00:00Z"
+  },
+  {
+    "idVendedor": 10,
+    "idPersona": 110,
+    "sueldo": 2900,
+    "estadoAutorizado": true,
+    "fechaAutorizacion": "2025-03-10T08:00:00Z",
     "fechaRevocacion": "0001-01-01T00:00:00Z"
   }
 ]
